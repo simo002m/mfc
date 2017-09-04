@@ -1,2 +1,2 @@
-# mfc
-The MFC - A simple utitily for making a lot of files with the same content instead of having to do it manually. This is mostly used for experimenting with a lot of files, eg. When I had to learn about tar archives, first it was just a CLI program written as a bash script, but I decided that it would be nice to have a GUI as well, so then I renamed the repository for the non graphical one to mfc_cli and named this repository mfc instead.
+# The MFC
+A simple utitily for making a lot of files with the same content instead of having to do it manually. This is mostly used for experimenting with a lot of files, eg. When I had to learn about tar archives, first it was just a CLI program written as a bash script, but I decided that it would be nice to have a GUI as well, so then I renamed the repository for the non graphical one to mfc_cli and named this repository mfc instead.
