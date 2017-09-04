@@ -51,7 +51,7 @@ def create_files():
     elif filetype != ".":
         filetype = "." + filetype
     
-    for num in range(amount):
+    for num in range(1, amount):
         target_file = open("{}{}{}".format(name, num, filetype), "w")
         target_file.write(content)
 
